@@ -24,8 +24,7 @@ https://www.balena.io/etcher/ (Recommended software)
                                          
  1.6 Set up the wifi settings.
                                         
- 1.7 In order to use the pi using a virtual machine open Raspberry Pi configuration-->Preferences-                                      -->Interfaces--->Enable VNC Viewer . On the top right corner of the screen VNC  Symbol is                                              enabled which upon clicking it previews the IP address of the connected network.  
-(The above step is an extremely useful one!!!!!)
+ 1.7 In order to use the pi using a virtual machine open Raspberry Pi configuration-->Preferences-                                      -->Interfaces--->Enable VNC Viewer .
                                             
  1.7.1 Now download and install VNC viewer from the given link to operate the pi from a   
  virtual system. https://www.realvnc.com/en/connect/download/viewer/
